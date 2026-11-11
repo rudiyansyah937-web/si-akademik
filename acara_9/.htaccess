@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^$ /setoran/acara_9/public/ [R=302,L]

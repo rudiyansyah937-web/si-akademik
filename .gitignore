@@ -1,0 +1,31 @@
+# Folder dan file editor
+.vscode/
+.idea/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependency (bila memakai Composer)
+vendor/
+node_modules/
+
+# File konfigurasi lokal dan rahasia
+.env
+
+# Log dan file sementara
+*.log
+*.tmp
+tmp/
+cache/
+
+# Backup dan arsip
+*.bak
+*.zip
+*.rar
+*.7z
+
+# Hasil unduhan atau salinan yang tidak perlu
+*_fixed/
+*_final/
