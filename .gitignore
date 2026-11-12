@@ -29,3 +29,6 @@ cache/
 # Hasil unduhan atau salinan yang tidak perlu
 *_fixed/
 *_final/
+
+# Log aplikasi
+storage/logs/*.log
